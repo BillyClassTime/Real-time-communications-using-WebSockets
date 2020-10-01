@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <!--<TargetFramework>netcoreapp2.2</TargetFramework> Initial example devolop in 2.2-->
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+ <!--No necessary reference in dotnetcore 3.1 or higher!-->
+ <!-- <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup> -->
+
+</Project>

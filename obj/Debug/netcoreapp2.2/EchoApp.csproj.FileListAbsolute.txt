@@ -1,0 +1,15 @@
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp2.2\EchoApp.deps.json
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp2.2\EchoApp.runtimeconfig.json
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp2.2\EchoApp.runtimeconfig.dev.json
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp2.2\EchoApp.dll
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp2.2\EchoApp.pdb
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.2\EchoApp.csprojAssemblyReference.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.2\EchoApp.AssemblyInfoInputs.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.2\EchoApp.AssemblyInfo.cs
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.2\EchoApp.csproj.CoreCompileInputs.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.2\EchoApp.RazorAssemblyInfo.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.2\EchoApp.RazorAssemblyInfo.cs
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.2\EchoApp.RazorTargetAssemblyInfo.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.2\EchoApp.dll
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.2\EchoApp.pdb
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.2\EchoApp.genruntimeconfig.cache

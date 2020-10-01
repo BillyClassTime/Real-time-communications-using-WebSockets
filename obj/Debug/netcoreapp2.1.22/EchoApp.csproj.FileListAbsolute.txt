@@ -1,0 +1,4 @@
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.1.22\EchoApp.csprojAssemblyReference.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.1.22\EchoApp.AssemblyInfoInputs.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.1.22\EchoApp.AssemblyInfo.cs
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp2.1.22\EchoApp.csproj.CoreCompileInputs.cache

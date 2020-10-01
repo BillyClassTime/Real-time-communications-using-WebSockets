@@ -1,0 +1,17 @@
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp3.1\EchoApp.exe
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp3.1\EchoApp.deps.json
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp3.1\EchoApp.runtimeconfig.json
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp3.1\EchoApp.runtimeconfig.dev.json
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp3.1\EchoApp.dll
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\bin\Debug\netcoreapp3.1\EchoApp.pdb
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\EchoApp.csprojAssemblyReference.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\EchoApp.AssemblyInfoInputs.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\EchoApp.AssemblyInfo.cs
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\EchoApp.csproj.CoreCompileInputs.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\EchoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\EchoApp.RazorTargetAssemblyInfo.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\staticwebassets\EchoApp.StaticWebAssets.Manifest.cache
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\staticwebassets\EchoApp.StaticWebAssets.xml
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\EchoApp.dll
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\EchoApp.pdb
+D:\BMV\Mod8-15\WebSockets10\miniwsserver\obj\Debug\netcoreapp3.1\EchoApp.genruntimeconfig.cache
